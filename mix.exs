@@ -21,7 +21,7 @@ defmodule Identicon.Mixfile do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:percept, github: 'erlang/percept'}
+      {:egd, github: "erlang/egd"}
     ]
   end
 end
