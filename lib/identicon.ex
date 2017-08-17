@@ -11,14 +11,14 @@ defmodule Identicon do
     %Identicon.Image{image | color: {r, g, b}}
   end
 
-
-
   # Let's build the grid and define which squares has to be colored and which not.
   def build_grid(%Identicon.Image{hex: hex} = image) do
     hex
     |> Enum.chunk(3)
-  
-    
+    # Passing reference to a function
+    |> Enum.map(&mirror_row/1)
+    |> List.flatten
+    |> Enum.with_index
   end
 
   def mirror_row(row) do
