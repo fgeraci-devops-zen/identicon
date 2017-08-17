@@ -13,6 +13,6 @@ Take a look here to get what an identicons is: https://github.com/programmer1
 
 
 ## The application workflow
-! https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2010.37.04.png
+! [identicon spec] [https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2010.37.04.png]
 
 
