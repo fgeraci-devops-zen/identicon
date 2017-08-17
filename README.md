@@ -12,7 +12,7 @@ iex(2)> :binary.bin_to_list(hash)
 Take a look here to get what an identicons is: https://github.com/programmer1
 
 ## Generating colors
-We are oing to use the first 3 digits in the list for RGB - so we are sure the color is always the same, e.g.
+We are going to use the first 3 digits in the list for RGB - so we are sure the color is always the same, e.g.
 
 ```
 iex(1)> Identicon.main("banana")
@@ -23,7 +23,7 @@ In the above case 114, 179, 2 will be used as RGB parameters
 ## Mapping to identicon matrix
 The 16th number will of course be discarded ^^
 
-![alt text](https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2010.38.36.png)
+![alt text](https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2011.18.55.png)
 
 ## The application workflow
 
