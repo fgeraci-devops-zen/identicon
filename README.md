@@ -27,7 +27,7 @@ The 16th number will of course be discarded ^^
 
 ## The application workflow
 
-![alt text](https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2011.18.55.png)
+![alt text](https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2010.38.36.png)
 
 Identicon structure
 
