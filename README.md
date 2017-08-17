@@ -13,6 +13,9 @@ Take a look here to get what an identicons is: https://github.com/programmer1
 
 
 ## The application workflow
+Project workflow
+![alt text](https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2010.38.36.png)
+
 Identicon structure
 
 ![alt text](https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2010.37.04.png)
@@ -20,4 +23,3 @@ Identicon structure
 It's symmetric
 
 ![alt text](https://github.com/fgeraci-devops-zen/identicon/blob/master/Schermata%202017-08-17%20alle%2010.37.26.png)
-
