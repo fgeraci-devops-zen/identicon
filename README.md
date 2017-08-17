@@ -11,6 +11,17 @@ iex(2)> :binary.bin_to_list(hash)
 ```
 Take a look here to get what an identicons is: https://github.com/programmer1
 
+## Generating colors
+We are oing to use the first 3 digits in the list for RGB - so we are sure the color is always the same, e.g.
+
+```
+iex(1)> Identicon.main("banana")
+[114, 179, 2, 191, 41, 122, 34, 138, 117, 115, 1, 35, 239, 239, 124, 65]
+```
+In the above case 114, 179, 2 will be used as RGB parameters
+
+## Mapping to identicon matrix
+
 
 ## The application workflow
 
